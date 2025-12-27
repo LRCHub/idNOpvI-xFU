@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "時計",
+  "base_artist": "坂本真綾",
+  "createdAt": "2025-12-27T16:29:32.023384Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "FLOWER FLOWER",
+      "has_synced": true,
+      "path": "select/01_時計_FLOWER_FLOWER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "熊木杏里",
+      "has_synced": false,
+      "path": "select/02_時計_熊木杏里.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "五輪真弓",
+      "has_synced": true,
+      "path": "select/03_時計_五輪真弓.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/04_時計_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "五輪 真弓",
+      "has_synced": true,
+      "path": "select/05_時計_五輪_真弓.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "時計(再録)",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/06_時計(再録)_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "五輪真弓",
+      "has_synced": true,
+      "path": "select/07_時計_五輪真弓.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "Mayumi Itsuwa",
+      "has_synced": true,
+      "path": "select/08_時計_Mayumi_Itsuwa.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "時計",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/09_時計_GLAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "時計",
+      "artist": "坂本 真綾",
+      "has_synced": false,
+      "path": "select/pl_01_時計_坂本_真綾.txt"
+    }
+  ]
+}
